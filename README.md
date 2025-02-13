@@ -1,4 +1,4 @@
 # praveengouda-demo
 This  is my  demo repo.
-my name is praveen
+my name is praveengouda
 
